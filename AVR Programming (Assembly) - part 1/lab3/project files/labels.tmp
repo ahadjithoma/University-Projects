@@ -1,0 +1,50 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega16</DEVICE>
+ <WORKING_DIR>C:\Users\andre\Desktop\lab3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\andre\Desktop\lab3\lab3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\andre\Desktop\lab3\lab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\andre\Desktop\lab3\lab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\andre\Desktop\lab3\lab3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <sp_init><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>31</LINE></sp_init>
+  <output><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>38</LINE></output>
+  <input><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>44</LINE></input>
+  <main><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>51</LINE></main>
+  <START_COLD><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>127</LINE></START_COLD>
+  <START_HOT><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>142</LINE></START_HOT>
+  <BGT_SETPOINT><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>159</LINE></BGT_SETPOINT>
+  <LST_SETPOINT><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>174</LINE></LST_SETPOINT>
+  <STOP_COLD><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>189</LINE></STOP_COLD>
+  <STOP_HOT><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>204</LINE></STOP_HOT>
+  <EMERGENCY_STOP><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>219</LINE></EMERGENCY_STOP>
+  <hot><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>83</LINE></hot>
+  <loop><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>89</LINE></loop>
+  <PROGRAM_END><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>115</LINE></PROGRAM_END>
+  <timer><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>100</LINE></timer>
+  <timer_3><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>102</LINE></timer_3>
+  <timer_2><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>104</LINE></timer_2>
+  <timer_1><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>106</LINE></timer_1>
+  <end_loop><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>124</LINE></end_loop>
+  <start_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>131</LINE></start_next>
+  <next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>146</LINE></next>
+  <bgt_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>163</LINE></bgt_next>
+  <lst_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>178</LINE></lst_next>
+  <cold_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>193</LINE></cold_next>
+  <hot_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>208</LINE></hot_next>
+  <emergency_next><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>223</LINE></emergency_next>
+  <endloop><FILE>C:\Users\andre\Desktop\lab3\lab3.asm</FILE><LINE>234</LINE></endloop>
+ </LABELS>
+</ASSEMBLER_INFO>
